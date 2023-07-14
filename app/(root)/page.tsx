@@ -4,7 +4,7 @@ export default function Home() {
     return (
      <div className="p-4">
         <p>Hello Admin Dashboard</p>
-        <Button size="default" variant="secondary">Click me!</Button>
+        <Button size="lg" variant="secondary">Click me!</Button>
      </div>
     )
   }
